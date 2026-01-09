@@ -69,4 +69,4 @@ top_brands = events.groupBy("brand").count().orderBy("count", ascending=False).l
 
 ```
 
-
+@databricks @codebasics @indiandataclub #DatabricksWithIDC
