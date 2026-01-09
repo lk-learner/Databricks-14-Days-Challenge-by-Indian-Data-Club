@@ -6,7 +6,7 @@ Databricks 14-Days AI Challenge is designed to help beginners build a strong fou
 
 | Day | Challenge | Status |
 | :--- | :--- | :--- |
-| [Day 01](Day 01) | Challenge 01 | ✅ Completed |
+| [Day 01](https://github.com/lk-learner/Databricks-14-Days-Challenge-by-Indian-Data-Club/tree/main/Day%2001) | Challenge 01 | ✅ Completed |
 | [Day 02](./Day-02) | Challenge 02 | ✅ Completed |
 | [Day 03](./Day-03) | Challenge 03 | ✅ Completed |
 | [Day 04](./Day-04) | Challenge 04 | ✅ Completed |
