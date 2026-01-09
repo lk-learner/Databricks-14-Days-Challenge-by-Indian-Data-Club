@@ -52,11 +52,9 @@ Understanding the difference is critical for performance tuning.
 
 **B. Wide Transformations**
 
-**Definition:** Data from multiple input partitions is required to create a single output partition. Requires a Shuffle.
-
-**Examples:** groupBy(), join(), distinct(), orderBy().
-
-**Performance:** Expensive due to network I/O and disk spills.
+- **Definition:** Data from multiple input partitions is required to create a single output partition. Requires a Shuffle.
+- **Examples:** groupBy(), join(), distinct(), orderBy().
+- **Performance:** Expensive due to network I/O and disk spills.
 
 ---
 
