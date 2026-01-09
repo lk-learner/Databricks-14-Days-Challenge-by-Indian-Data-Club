@@ -36,3 +36,48 @@ Spark uses Lazy Evaluation. This means Spark doesn't execute the code immediatel
 | **Definition** | Operations that create a new DataFrame from an existing one. | Operations that trigger computation and return a result. |
 | **Examples** | `select()`, `filter()`, `groupBy()`, `join()` | `show()`, `collect()`, `count()`, `write()` |
 | **Execution** | Lazy (Planning phase) | Eager (Execution phase) |
+
+
+---
+
+### 🔍 2. Narrow vs. Wide Transformations
+
+Understanding the difference is critical for performance tuning.
+
+**A. Narrow Transformations** 
+
+- **Definition:** Each input partition contributes to only one output partition. No data movement across the network (No Shuffle).
+- **Examples:** map(), filter(), union(), select().
+- **Performance:** Very fast.
+
+**B. Wide Transformations**
+
+**Definition:** Data from multiple input partitions is required to create a single output partition. Requires a Shuffle.
+**Examples:** groupBy(), join(), distinct(), orderBy().
+**Performance:** Expensive due to network I/O and disk spills.
+
+---
+
+### 💻 Hands-on Lab Practice:
+
+```python
+from pyspark.sql import functions as F
+from pyspark.sql.window import Window
+
+# Top 5 products by revenue
+revenue = events.filter(F.col("event_type") == "purchase") \
+    .groupBy("product_id", "product_name") \
+    .agg(F.sum("price").alias("revenue")) \
+    .orderBy(F.desc("revenue")).limit(5)
+
+# Running total per user
+window = Window.partitionBy("user_id").orderBy("event_time")
+events.withColumn("cumulative_events", F.count("*").over(window))
+
+# Conversion rate by category
+events.groupBy("category_code", "event_type").count() \
+    .pivot("event_type").sum("count") \
+    .withColumn("conversion_rate", F.col("purchase")/F.col("view")*100)
+```
+
+@databricks @codebasics @indiandataclub #DatabricksWithIDC
