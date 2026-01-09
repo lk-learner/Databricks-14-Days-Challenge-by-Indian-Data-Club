@@ -52,4 +52,12 @@ Databricks 14-Days AI Challenge is designed to help beginners build a strong fou
 
 This is a personal learning repository for the Databricks-14-Days-Challenge. Feel free to fork and use the structure for your own learning journey!
 
+## 📚 Additional Resources
+
+- [Databricks Documentation](https://docs.databricks.com/)
+- [PySpark API](https://spark.apache.org/docs/latest/api/python/)
+- [Delta Lake](https://delta.io/)
+- [MLflow](https://mlflow.org/)
+- [Kaggle Dataset](https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store)
+
 @databricks @codebasics @indiandataclub #DatabricksWithIDC
