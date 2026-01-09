@@ -45,7 +45,7 @@ Databricks 14-Days AI Challenge is designed to help beginners build a strong fou
 
 ## 📖 Learning Goals
 
-- DataBricks Fundaments
+- DataBricks Fundamentals
 
 ## 🤝 Contributing
 
