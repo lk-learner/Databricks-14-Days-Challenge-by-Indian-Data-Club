@@ -68,5 +68,11 @@ events.groupBy("event_type").count().show()
 top_brands = events.groupBy("brand").count().orderBy("count", ascending=False).limit(5)
 
 ```
+---
+### 🔗 Resources:
 
+- [PySpark Guide](https://docs.databricks.com/pyspark/)
+- [Spark SQL Guide](https://spark.apache.org/docs/latest/sql-programming-guide.html)
+
+---
 @databricks @codebasics @indiandataclub #DatabricksWithIDC
