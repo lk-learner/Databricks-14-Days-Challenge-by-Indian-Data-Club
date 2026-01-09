@@ -36,3 +36,7 @@ df.show()
 # Filter expensive products
 df.filter(df.price > 1000).show()
 
+```
+
+@databricks @codebasics @indiandataclub #DatabricksWithIDC
+
