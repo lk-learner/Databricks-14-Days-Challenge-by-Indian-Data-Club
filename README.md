@@ -21,3 +21,32 @@ Databricks 14-Days AI Challenge is designed to help beginners build a strong fou
 | [Day 13](./Day-13) | Challenge 13 | ✅ Completed |
 | [Day 14](./Day-14) | Challenge 14 | ✅ Completed |
 | [DataBricks_Project](./DataBricks_Project) | DataBricks Project | ✅ Completed |
+
+## 🎯 How to Use This Repository
+
+1. **Daily Workflow:**
+   - Navigate to the day's folder (e.g., `Day-01`)
+   - Read the challenge description in the README.md
+   - Write/Create solution file
+   - Document approach and learnings in the README.md
+
+2. **Adding Solutions:**
+   - Each day's folder contains a README.md template
+   - Add DataBricks solution files
+   - Update the main README table with completion status
+
+3. **Tracking Progress:**
+   - Update the status in the table above as you complete each challenge
+   - Use emojis: ✅ Completed | 🚧 In Progress
+
+## 🛠️ Technologies
+
+- DataBricks Free Edition
+
+## 📖 Learning Goals
+
+- DataBricks Fundaments
+
+## 🤝 Contributing
+
+This is a personal learning repository for the Databricks-14-Days-Challenge. Feel free to fork and use the structure for your own learning journey!
