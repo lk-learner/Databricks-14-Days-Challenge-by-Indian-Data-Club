@@ -2,7 +2,7 @@
 ## DataBricks 14-Day AI Challenge
 
 ---
-### 🌟 Overview
+### 📌 Overview
 
 Delta Lake is an open-source storage layer that brings ACID (Atomicity, Consistency, Isolation, Durability) transactions to Apache Spark and big data workloads. It provides a reliable way to manage a "Lakehouse" architecture by combining the best features of data warehouses and data lakes.
 
@@ -13,6 +13,8 @@ Delta Lake is an open-source storage layer that brings ACID (Atomicity, Consiste
 - ACID transactions
 - Schema enforcement
 - Delta vs Parquet
+
+---
 
 ### 🛠️ Tasks:
 
@@ -58,4 +60,11 @@ except Exception as e:
     print(f"Schema enforcement: {e}")
 
 ```
+---
+### 🔗 Resources:
+
+- [Delta Lake Docs](https://docs.databricks.com/delta/)
+- [Delta Tutorial](https://docs.databricks.com/delta/tutorial.html)
+---
+@databricks @codebasics @indiandataclub #DatabricksWithIDC
 
