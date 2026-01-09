@@ -1,6 +1,6 @@
-# Databricks 14-Day AI Challenge
+# Day 1: Platform Setup & First Steps
 
-## Day 1: Platform Setup & First Steps
+## Databricks 14-Day AI Challenge
 
 ### 🚀 Overview
 Day 1 is focused on setting up your environment and understanding the foundational components of the Databricks Data Intelligence Platform. The goal is to move from a traditional developer or analyst mindset into the world of Lakehouse architecture.
