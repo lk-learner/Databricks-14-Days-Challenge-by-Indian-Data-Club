@@ -2,6 +2,12 @@
 ## Databricks 14 Days AI Challenge
 
 ---
+
+### 📌 Overview
+Day 2 focuses on understanding the core engine behind Databricks: **Apache Spark**. We transition from high-level platform concepts to the architecture and APIs that enable distributed big data processing.
+
+---
+
 ### 📚 Learn:
 
 - Spark architecture (driver, executors, DAG)
@@ -15,11 +21,6 @@
 2. Read data into DataFrame
 3. Perform basic operations: select, filter, groupBy, orderBy
 4. Export results
-
----
-
-### 📌 Overview
-Day 2 focuses on understanding the core engine behind Databricks: **Apache Spark**. We transition from high-level platform concepts to the architecture and APIs that enable distributed big data processing.
 
 ---
 
