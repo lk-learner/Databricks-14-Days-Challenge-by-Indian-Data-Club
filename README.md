@@ -1,5 +1,6 @@
 # Databricks-14-Days-Challenge-by-Indian-Data-Club
 Databricks 14-Days AI Challenge is designed to help beginners build a strong foundation in Databricks through daily learning, hands-on practice, and real-world problem solving.
+[Notion link for challenges](https://indiandataclub.notion.site/Databricks-14-Days-AI-Challenge-2e09b695c411802398eed89908875221)
 
 ## 📅 Daily Challenges
 
@@ -19,3 +20,4 @@ Databricks 14-Days AI Challenge is designed to help beginners build a strong fou
 | [Day 12](./Day-12) | Challenge 12 | ✅ Completed |
 | [Day 13](./Day-13) | Challenge 13 | ✅ Completed |
 | [Day 14](./Day-14) | Challenge 14 | ✅ Completed |
+| [DataBricks_Project](./DataBricks_Project) | DataBricks Project | ✅ Completed |
