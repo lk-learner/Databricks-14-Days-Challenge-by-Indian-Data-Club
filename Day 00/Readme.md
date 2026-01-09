@@ -37,7 +37,7 @@ To automate data loading, you need your Kaggle API keys:
 ## 📥 Step 3: Load Data into Databricks
 Create a new Python notebook in Databricks and run the following cells:
 
-### 1. Install Dependencies & Configure
+### 1. Install Dependencies & Configure 
 ```python
 !pip install kaggle
 
@@ -46,3 +46,6 @@ os.environ["KAGGLE_USERNAME"] = "your_username"
 os.environ["KAGGLE_KEY"] = "your_key"
 
 print("Kaggle credentials configured!")
+
+
+
