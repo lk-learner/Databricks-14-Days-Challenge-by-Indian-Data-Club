@@ -4,9 +4,9 @@
 ---
 
 ### 🚀 Key Takeaways
-Spark uses Lazy Evaluation: Transformations are not executed until an Action (like count() or show()) is called.
+- Spark uses Lazy Evaluation: Transformations are not executed until an Action (like count() or show()) is called.
 
-Databricks optimizes Spark workloads using the Photon engine for faster execution.
+- Databricks optimizes Spark workloads using the Photon engine for faster execution.
 
 ---
 
