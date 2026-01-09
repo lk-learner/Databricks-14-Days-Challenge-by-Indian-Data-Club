@@ -6,6 +6,8 @@
 
 Delta Lake is an open-source storage layer that brings ACID (Atomicity, Consistency, Isolation, Durability) transactions to Apache Spark and big data workloads. It provides a reliable way to manage a "Lakehouse" architecture by combining the best features of data warehouses and data lakes.
 
+Before Delta Lake, data lakes suffered from reliability issues and performance bottlenecks. Delta Lake solves this by using a Transaction Log (the _delta_log folder), which tracks every change made to the data, enabling high-performance metadata handling and data reliability.
+
 ---
 ### 📚 Learn:
 
