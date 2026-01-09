@@ -58,15 +58,13 @@ In this session, we explore the Spark session and basic DataFrame operations:
 # Check the Spark version
 print(f"Spark Version: {spark.version}")
 
-# Create a simple DataFrame
-data = [("Alice", 34), ("Bob", 45), ("Catherine", 29)]
-columns = ["Name", "Age"]
-df = spark.createDataFrame(data, columns)
+# Load data
+events = spark.read.csv("/path/to/sample.csv", header=True, inferSchema=True)
 
-# Display the data
-display(df)
+# Basic operations
+events.select("event_type", "product_name", "price").show(10)
+events.filter("price > 100").count()
+events.groupBy("event_type").count().show()
+top_brands = events.groupBy("brand").count().orderBy("count", ascending=False).limit(5)
 
-# Basic Transformation: Filter
-filtered_df = df.filter(df.Age > 30)
-display(filtered_df)
 
