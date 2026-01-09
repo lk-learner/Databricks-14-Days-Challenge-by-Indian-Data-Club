@@ -51,4 +51,5 @@ Databricks 14-Days AI Challenge is designed to help beginners build a strong fou
 ## 🤝 Contributing
 
 This is a personal learning repository for the Databricks-14-Days-Challenge. Feel free to fork and use the structure for your own learning journey!
+
 @databricks @codebasics @indiandataclub #DatabricksWithIDC
