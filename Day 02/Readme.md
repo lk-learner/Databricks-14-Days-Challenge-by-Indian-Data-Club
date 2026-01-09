@@ -1,6 +1,15 @@
 # Day 2 – Apache Spark Fundamentals
 ## Databricks 14 Days AI Challenge
 
+---
+
+### 🚀 Key Takeaways
+Spark uses Lazy Evaluation: Transformations are not executed until an Action (like count() or show()) is called.
+
+Databricks optimizes Spark workloads using the Photon engine for faster execution.
+
+---
+
 ### 📌 Overview
 Day 2 focuses on understanding the core engine behind Databricks: **Apache Spark**. We transition from high-level platform concepts to the architecture and APIs that enable distributed big data processing.
 
