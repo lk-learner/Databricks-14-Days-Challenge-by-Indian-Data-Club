@@ -47,5 +47,13 @@ os.environ["KAGGLE_KEY"] = "your_key"
 
 print("Kaggle credentials configured!")
 
+```
+---
 
+### 📚 **Additional Resources**
+
+- [Kaggle Dataset Page](https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store)
+- [Databricks Documentation](https://docs.databricks.com/)
+- [PySpark DataFrame Guide](https://spark.apache.org/docs/latest/api/python/reference/pyspark.sql/dataframe.html)
+- Dataset provided by [REES46 Open CDP](https://rees46.com/en/open-cdp)
 
