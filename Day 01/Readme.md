@@ -13,7 +13,7 @@ Day 1 is focused on setting up your environment and understanding the foundation
 - Industry use cases (Netflix, Shell, Comcast)
 
 ### 🛠️ Tasks:
-- **Account Setup**: Sign up for the [Databricks Community Edition](https://community.cloud.databricks.com/login.html) or a free trial on AWS/Azure/GCP.
+- **Account Setup**: Sign up for the [Databricks Community Edition](https://community.cloud.databricks.com/login.html) 
 - **Workspace Exploration**: Familiarize yourself with the Databricks UI, including the Workspace, Catalog, and Compute sections.
 - **Compute Configuration**: Create your first Spark Cluster (Personal Compute) to run notebooks.
 - **Data Ingestion Basics**: Learn how to upload a CSV/JSON file to the Databricks File System (DBFS).
