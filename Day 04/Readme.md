@@ -1,6 +1,13 @@
+# DAY 4 – Delta Lake Introduction
 ## DataBricks 14-Day AI Challenge
 
-### Learn:
+---
+### 🌟 Overview
+
+Delta Lake is an open-source storage layer that brings ACID (Atomicity, Consistency, Isolation, Durability) transactions to Apache Spark and big data workloads. It provides a reliable way to manage a "Lakehouse" architecture by combining the best features of data warehouses and data lakes.
+
+---
+### 📚 Learn:
 
 - What is Delta Lake?
 - ACID transactions
@@ -13,6 +20,18 @@
 2. Create Delta tables (SQL and PySpark)
 3. Test schema enforcement
 4. Handle duplicate inserts
+
+---
+
+### 🔑 Key Concepts
+
+- **ACID Transactions:** Ensures data integrity by preventing partial writes and failed job corruption.
+
+- **Schema Enforcement:** Prevents "data swamps" by ensuring data being written matches the table's defined schema.
+
+- **Time Travel:** Allows you to query previous versions of your data for auditing or rollbacks.
+
+- **Unified Batch/Streaming:** A single table can act as both a batch source and a streaming sink.
 
 ---
 
