@@ -67,4 +67,6 @@ events.filter("price > 100").count()
 events.groupBy("event_type").count().show()
 top_brands = events.groupBy("brand").count().orderBy("count", ascending=False).limit(5)
 
+```
+
 
