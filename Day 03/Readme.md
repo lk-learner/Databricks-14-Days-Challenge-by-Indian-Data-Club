@@ -1,4 +1,4 @@
-# DAY 3: PySpark Transformations Deep Dive 🚀
+# DAY 3: PySpark Transformations Deep Dive
 
 ## DataBricks 14-Day AI Challenge
 
