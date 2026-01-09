@@ -2,13 +2,6 @@
 ## Databricks 14 Days AI Challenge
 
 ---
-
-### 🚀 Key Takeaways
-- Spark uses Lazy Evaluation: Transformations are not executed until an Action (like count() or show()) is called.
-
-- Databricks optimizes Spark workloads using the Photon engine for faster execution.
-
----
 ### 📚 Learn:
 
 - Spark architecture (driver, executors, DAG)
@@ -48,6 +41,12 @@ Day 2 focuses on understanding the core engine behind Databricks: **Apache Spark
    - **DataFrames:** Distributed collections of data organized into named columns (the preferred API).
    - **Datasets:** Type-safe interface (primarily for Scala/Java).
 
+---
+
+### 🚀 Key Takeaways
+- Spark uses Lazy Evaluation: Transformations are not executed until an Action (like count() or show()) is called.
+
+- Databricks optimizes Spark workloads using the Photon engine for faster execution.
 ---
 
 ### 💻 Hands-on Lab: Spark Basics
