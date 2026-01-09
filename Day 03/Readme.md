@@ -80,4 +80,11 @@ events.groupBy("category_code", "event_type").count() \
     .withColumn("conversion_rate", F.col("purchase")/F.col("view")*100)
 ```
 
+---
+
+### 🔗 Resources:
+
+- [Window Functions](https://spark.apache.org/docs/latest/api/python/reference/pyspark.sql/window.html)
+- [PySpark Functions API](https://spark.apache.org/docs/latest/api/python/reference/pyspark.sql/functions.html)
+---
 @databricks @codebasics @indiandataclub #DatabricksWithIDC
