@@ -19,8 +19,8 @@ Databricks 14-Days AI Challenge is designed to help beginners build a strong fou
 | [Day 11](./Day-11) | Challenge 11 | ✅ Completed |
 | [Day 12](./Day-12) | Challenge 12 | ✅ Completed |
 | [Day 13](./Day-13) | Challenge 13 | ✅ Completed |
-| [Day 14](./Day-14) | Challenge 14 | ✅ Completed |
-| [DataBricks_Project](./DataBricks_Project) | DataBricks Project | ✅ Completed |
+| [Day 14](./Day-14) | Challenge 14 |  🚧 In Progress |
+| [DataBricks_Project](./DataBricks_Project) | DataBricks Project |  🚧 In Progress |
 
 ## 🎯 How to Use This Repository
 
