@@ -52,7 +52,7 @@ Using **Widgets** and job parameters to pass values (like dates or file paths) i
 
 ---
 
-## 🚀 Practical Exercise
+### 🚀 Practical Exercise
 1. Create a job with at least two dependent tasks.
 2. Configure a **Job Cluster** to optimize cost.
 3. Set up a **Schedule** to run the job automatically.
