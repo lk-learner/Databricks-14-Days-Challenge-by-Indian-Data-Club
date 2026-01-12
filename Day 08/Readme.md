@@ -29,15 +29,15 @@ Day 8 is a shift from "building" to "managing." In a production AI environment, 
 
 ### 🔑 Key Concepts
 
-The Metastore: The top-level container in Unity Catalog. It stores the metadata and permissions for all your data.
+**The Metastore:** The top-level container in Unity Catalog. It stores the metadata and permissions for all your data.
 
-Identity Federation: The ability to use one set of users/groups across all your Databricks workspaces, ensuring consistent security.
+**Identity Federation:** The ability to use one set of users/groups across all your Databricks workspaces, ensuring consistent security.
 
-Three-Level Namespacing: Unity Catalog uses a catalog.schema.table format, which provides an organized way to separate environments (e.g., prod.sales.orders vs dev.sales.orders).
+**Three-Level Namespacing:** Unity Catalog uses a catalog.schema.table format, which provides an organized way to separate environments (e.g., prod.sales.orders vs dev.sales.orders).
 
-Volumes: A newer concept in UC for governing non-tabular data (like PDFs, images, or CSVs) used in machine learning.
+**Volumes:** A newer concept in UC for governing non-tabular data (like PDFs, images, or CSVs) used in machine learning.
 
-Search and Discovery: Leveraging the UI to find data quickly using keywords and tags, which is essential for large-scale AI projects.
+**Search and Discovery:** Leveraging the UI to find data quickly using keywords and tags, which is essential for large-scale AI projects.
 
 ---
 
