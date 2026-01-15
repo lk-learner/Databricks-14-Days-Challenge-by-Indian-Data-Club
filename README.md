@@ -13,7 +13,7 @@ Databricks 14-Days AI Challenge is designed to help beginners build a strong fou
 | [Day 04](https://github.com/lk-learner/Databricks-14-Days-Challenge-by-Indian-Data-Club/tree/main/Day%2004) | Challenge 04 | ✅ Completed |
 | [Day 05](https://github.com/lk-learner/Databricks-14-Days-Challenge-by-Indian-Data-Club/tree/main/Day%2005) | Challenge 05 | ✅ Completed  |
 | [Day 06](https://github.com/lk-learner/Databricks-14-Days-Challenge-by-Indian-Data-Club/tree/main/Day%2006) | Challenge 06 | ✅ Completed |
-| [Day 07](https://github.com/lk-learner/Databricks-14-Days-Challenge-by-Indian-Data-Club/tree/main/Day%2007) | Challenge 07 | 🚧 In Progress |
+| [Day 07](https://github.com/lk-learner/Databricks-14-Days-Challenge-by-Indian-Data-Club/tree/main/Day%2007) | Challenge 07 | ✅ Completed |
 | [Day 08](https://github.com/lk-learner/Databricks-14-Days-Challenge-by-Indian-Data-Club/tree/main/Day%2008) | Challenge 08 | 🚧 In Progress |
 | [Day 09](https://github.com/lk-learner/Databricks-14-Days-Challenge-by-Indian-Data-Club/tree/main/Day%2009) | Challenge 09 | 🚧 In Progress |
 | [Day 10](https://github.com/lk-learner/Databricks-14-Days-Challenge-by-Indian-Data-Club/tree/main/Day%2010) | Challenge 10 | 🚧 In Progress |
