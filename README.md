@@ -49,7 +49,7 @@ Databricks 14-Days AI Challenge is designed to help beginners build a strong fou
 
 ## 🤝 Contributing
 
-This is a personal learning repository for the Databricks-14-Days-Challenge. Feel free to star the my repo or fork it and use the structure for your own learning journey!
+This is a personal learning repository for the Databricks-14-Days-Challenge. Feel free to star my repo or fork it and use the structure for your own learning journey!
 
 ## 📚 Additional Resources
 
