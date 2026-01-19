@@ -88,6 +88,10 @@ features = events.withColumn("hour", F.hour("event_time")) \
 ### 🔗 Resources:
 
 - [Spark ML Guide](https://spark.apache.org/docs/latest/ml-guide.html)
-
+- [EDA databricks](https://youtu.be/_ROAA768D8M?si=vJMieB2kq_znHZDq)
+- [EDA with PySpark](https://youtu.be/LW0Hd6TA5YQ?si=jEN0qnyFkomqzDSY)
+- [Learn to Use Databricks for the Full ML Lifecycle](https://youtu.be/dQD2gVPJggQ?si=_AnthTDm0ucQe3pU)
+- [What is Hypothesis Testing](https://youtu.be/fb8BSFr0isg?si=B0ue4C-o4aor_RvP)
+- [Simple explanation of A/B Testing](https://youtu.be/eiIhTbFP0ls?si=QMUzAefRoZXOH7Wh)
 ---
 @databricks @codebasics @indiandataclub #DatabricksWithIDC
