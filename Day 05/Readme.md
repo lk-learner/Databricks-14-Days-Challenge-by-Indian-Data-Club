@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-<img src="/Lakshmi Kadali Certificates/Lakshmi-Kadali-IBM-Data-Analyst-Professional-Certificate-Coursera KELB5RZGPCH2.png" width=80% height=80%>
+<img src="/Day 05/"5_Badges.png" width=80% height=80%>
 
 ---
 ### 📌 Overview
