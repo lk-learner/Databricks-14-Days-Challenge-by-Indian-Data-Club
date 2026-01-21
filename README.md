@@ -6,20 +6,20 @@ Databricks 14-Days AI Challenge is designed to help beginners build a strong fou
 
 | Day | Challenge | Status |
 | :--- | :--- | :--- |
-| [Day 01](https://github.com/lk-learner/Databricks-14-Days-Challenge-by-Indian-Data-Club/tree/main/Day%2001) | Challenge 01 | ✅ Completed |
-| [Day 02](https://github.com/lk-learner/Databricks-14-Days-Challenge-by-Indian-Data-Club/tree/main/Day%2002) | Challenge 02 | ✅ Completed |
-| [Day 03](https://github.com/lk-learner/Databricks-14-Days-Challenge-by-Indian-Data-Club/tree/main/Day%2003) | Challenge 03 | ✅ Completed |
-| [Day 04](https://github.com/lk-learner/Databricks-14-Days-Challenge-by-Indian-Data-Club/tree/main/Day%2004) | Challenge 04 | ✅ Completed |
-| [Day 05](https://github.com/lk-learner/Databricks-14-Days-Challenge-by-Indian-Data-Club/tree/main/Day%2005) | Challenge 05 | ✅ Completed |
-| [Day 06](https://github.com/lk-learner/Databricks-14-Days-Challenge-by-Indian-Data-Club/tree/main/Day%2006) | Challenge 06 | ✅ Completed |
-| [Day 07](https://github.com/lk-learner/Databricks-14-Days-Challenge-by-Indian-Data-Club/tree/main/Day%2007) | Challenge 07 | ✅ Completed |
-| [Day 08](https://github.com/lk-learner/Databricks-14-Days-Challenge-by-Indian-Data-Club/tree/main/Day%2008) | Challenge 08 | ✅ Completed |
-| [Day 09](https://github.com/lk-learner/Databricks-14-Days-Challenge-by-Indian-Data-Club/tree/main/Day%2009) | Challenge 09 | ✅ Completed |
-| [Day 10](https://github.com/lk-learner/Databricks-14-Days-Challenge-by-Indian-Data-Club/tree/main/Day%2010) | Challenge 10 | ✅ Completed |
-| [Day 11](https://github.com/lk-learner/Databricks-14-Days-Challenge-by-Indian-Data-Club/tree/main/Day%2011) | Challenge 11 | ✅ Completed |
-| [Day 12](https://github.com/lk-learner/Databricks-14-Days-Challenge-by-Indian-Data-Club/tree/main/Day%2012) | Challenge 12 | ✅ Completed |
-| [Day 13](https://github.com/lk-learner/Databricks-14-Days-Challenge-by-Indian-Data-Club/tree/main/Day%2013) | Challenge 13 | ✅ Completed |
-| [Day 14](https://github.com/lk-learner/Databricks-14-Days-Challenge-by-Indian-Data-Club/tree/main/Day%2014) | Challenge 14 | 🚧 In Progress |
+| [Day 01](https://github.com/lk-learner/Databricks-14-Days-Challenge-by-Indian-Data-Club/tree/main/Day%2001) | Platform Setup & First Steps | ✅ Completed |
+| [Day 02](https://github.com/lk-learner/Databricks-14-Days-Challenge-by-Indian-Data-Club/tree/main/Day%2002) | Apache Spark Fundamentals | ✅ Completed |
+| [Day 03](https://github.com/lk-learner/Databricks-14-Days-Challenge-by-Indian-Data-Club/tree/main/Day%2003) | PySpark Transformations Deep Dive | ✅ Completed |
+| [Day 04](https://github.com/lk-learner/Databricks-14-Days-Challenge-by-Indian-Data-Club/tree/main/Day%2004) | Delta Lake Introduction | ✅ Completed |
+| [Day 05](https://github.com/lk-learner/Databricks-14-Days-Challenge-by-Indian-Data-Club/tree/main/Day%2005) | Delta Lake Advanced | ✅ Completed |
+| [Day 06](https://github.com/lk-learner/Databricks-14-Days-Challenge-by-Indian-Data-Club/tree/main/Day%2006) | Medallion Architecture | ✅ Completed |
+| [Day 07](https://github.com/lk-learner/Databricks-14-Days-Challenge-by-Indian-Data-Club/tree/main/Day%2007) | Workflows & Job Orchestration | ✅ Completed |
+| [Day 08](https://github.com/lk-learner/Databricks-14-Days-Challenge-by-Indian-Data-Club/tree/main/Day%2008) | Unity Catalog Governance | ✅ Completed |
+| [Day 09](https://github.com/lk-learner/Databricks-14-Days-Challenge-by-Indian-Data-Club/tree/main/Day%2009) | SQL Analytics & Dashboards | ✅ Completed |
+| [Day 10](https://github.com/lk-learner/Databricks-14-Days-Challenge-by-Indian-Data-Club/tree/main/Day%2010) | Performance Optimization | ✅ Completed |
+| [Day 11](https://github.com/lk-learner/Databricks-14-Days-Challenge-by-Indian-Data-Club/tree/main/Day%2011) | Statistical Analysis & ML Prep | ✅ Completed |
+| [Day 12](https://github.com/lk-learner/Databricks-14-Days-Challenge-by-Indian-Data-Club/tree/main/Day%2012) | MLflow Basics | ✅ Completed |
+| [Day 13](https://github.com/lk-learner/Databricks-14-Days-Challenge-by-Indian-Data-Club/tree/main/Day%2013) | Model Comparison & Feature Engineering | ✅ Completed |
+| [Day 14](https://github.com/lk-learner/Databricks-14-Days-Challenge-by-Indian-Data-Club/tree/main/Day%2014) | AI-Powered Analytics: Genie & Mosaic AI | 🚧 In Progress |
 | [DataBricks_Project](./DataBricks_Project) | DataBricks Project | 🚧 In Progress |
 
 ## 🎯 How to Use This Repository
