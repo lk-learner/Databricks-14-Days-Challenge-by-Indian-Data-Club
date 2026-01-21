@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-<img src="/Day 05/"5_Badges.png" width=80% height=80%>
+<img src="/Day 05/5_Badges.png" width=40% height=40%>
 
 ---
 ### 📌 Overview
