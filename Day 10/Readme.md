@@ -2,8 +2,9 @@
 ## DataBricks 14-Day AI Challenge
 
 ---
+
 <p align="center">
-<img src="/Day 10/10_Days_Badges.png" width=40% height=40%>
+<img src="Day 10/10-Days-Badge.png" width=40% height=40%>
 
 ---
 ### 📌 Overview
