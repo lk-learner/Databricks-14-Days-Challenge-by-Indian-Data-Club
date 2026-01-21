@@ -37,6 +37,7 @@ Progress doesn’t happen in a single day, it needs consistent practice.
 You don’t truly remember concepts by just reading them
 You remember them when you build, break, fix, and rebuild
 
+---
 
 ## 📅 Daily Challenges
 
@@ -57,6 +58,8 @@ You remember them when you build, break, fix, and rebuild
 | [Day 13](https://github.com/lk-learner/Databricks-14-Days-Challenge-by-Indian-Data-Club/tree/main/Day%2013) | Model Comparison & Feature Engineering | ✅ Completed |
 | [Day 14](https://github.com/lk-learner/Databricks-14-Days-Challenge-by-Indian-Data-Club/tree/main/Day%2014) | AI-Powered Analytics: Genie & Mosaic AI | 🚧 In Progress |
 | [DataBricks_Project](./DataBricks_Project) | DataBricks Project | 🚧 In Progress |
+
+---
 
 ## 🎯 How to Use This Repository
 
@@ -87,6 +90,8 @@ You remember them when you build, break, fix, and rebuild
 
 This is a personal learning repository for the Databricks-14-Days-Challenge. Feel free to star my repo or fork it and use the structure for your own learning journey!
 
+---
+
 ## 📚 Additional Resources
 
 - [Databricks Documentation](https://docs.databricks.com/)
@@ -94,5 +99,5 @@ This is a personal learning repository for the Databricks-14-Days-Challenge. Fee
 - [Delta Lake](https://delta.io/)
 - [MLflow](https://mlflow.org/)
 - [Kaggle Dataset](https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store)
-
+---
 @databricks @codebasics @indiandataclub #DatabricksWithIDC
