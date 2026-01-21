@@ -2,6 +2,10 @@
 ## DataBricks 14-Day AI Challenge
 ---
 
+<p align="center">
+<img src="/Lakshmi Kadali Certificates/Lakshmi-Kadali-IBM-Data-Analyst-Professional-Certificate-Coursera KELB5RZGPCH2.png" width=80% height=80%>
+
+---
 ### 📌 Overview
 
 Day 5 is about moving from "just storing data" to "governing and optimizing data." By the end of this module, you should be able to build resilient pipelines that handle changing schemas and perform efficiently at scale. Transition from basic table operations to advanced Delta Lake features that ensure performance, reliability, and data integrity in a production environment.
