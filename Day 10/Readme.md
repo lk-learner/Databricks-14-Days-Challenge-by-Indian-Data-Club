@@ -7,7 +7,7 @@
 <img src="Day 10/10-Days-Badge.png" width=40% height=40%>
 
 ---
-![Databricks 10 days Badge](https://github.com/lk-learner/Databricks-14-Days-Challenge-by-Indian-Data-Club/blob/main/Day%2010/10-Days-Badge.png)
+![Databricks 10 days Badge](https://github.com/lk-learner/Databricks-14-Days-Challenge-by-Indian-Data-Club/blob/main/Day%2010/10-Days-Badge.png){:width="10px" height="10px"}
 
 ---
 ### 📌 Overview
