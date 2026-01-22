@@ -2,14 +2,11 @@
 ## DataBricks 14-Day AI Challenge
 
 ---
-
 <p align="center">
-<img src="Day 10/10-Days-Badge.png" width=40% height=40%>
+<img src="https://github.com/lk-learner/Databricks-14-Days-Challenge-by-Indian-Data-Club/blob/main/Day%2010/10-Days-Badge.png" style="width:50%;max-width:300px;">
 
 ---
-![Databricks 10 days Badge](https://github.com/lk-learner/Databricks-14-Days-Challenge-by-Indian-Data-Club/blob/main/Day%2010/10-Days-Badge.png){:width="10px" height="10px"}
 
----
 ### 📌 Overview
 
 Day 10 focuses on the critical techniques required to make big data workloads faster and more cost-efficient within the Databricks environment. While Spark is powerful out of the box, handling petabyte-scale data requires specific strategies like Data Skipping, Z-Ordering, and Caching to reduce resource consumption and minimize query latency. This day bridges the gap between functional data engineering and high-performance data architecture.
