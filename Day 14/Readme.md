@@ -72,7 +72,7 @@ with mlflow.start_run(run_name="sentiment_model"):
 ### 🔗 Resources:
 
 - [Databricks Genie](https://www.youtube.com/watch?v=naFraZ1kMi8)
-- [Mosaic AI](https://docs.databricks.com/generative-ai/)
+- [Mosaic AI](https://docs.databricks.com/aws/en)
 
 ---
 @databricks @codebasics @indiandataclub #DatabricksWithIDC
