@@ -33,8 +33,8 @@ With AI becoming part of almost every data role, understanding data engineering 
 
 𝐖𝐡𝐚𝐭 𝐭𝐡𝐢𝐬 𝐜𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞 𝐭𝐚𝐮𝐠𝐡𝐭 𝐦𝐞?
 
-Progress doesn’t happen in a single day, it needs consistent practice. 
-You don’t truly remember concepts by just reading them
+Progress doesn’t happen in a single day, it needs hardwork, consistent practice and passion for learning. 
+You don’t truly remember concepts by just reading or watching them
 You remember them when you build, break, fix, and rebuild
 
 ---
