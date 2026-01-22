@@ -56,7 +56,7 @@ You remember them when you build, break, fix, and rebuild
 | [Day 11](https://github.com/lk-learner/Databricks-14-Days-Challenge-by-Indian-Data-Club/tree/main/Day%2011) | Statistical Analysis & ML Prep | ✅ Completed |
 | [Day 12](https://github.com/lk-learner/Databricks-14-Days-Challenge-by-Indian-Data-Club/tree/main/Day%2012) | MLflow Basics | ✅ Completed |
 | [Day 13](https://github.com/lk-learner/Databricks-14-Days-Challenge-by-Indian-Data-Club/tree/main/Day%2013) | Model Comparison & Feature Engineering | ✅ Completed |
-| [Day 14](https://github.com/lk-learner/Databricks-14-Days-Challenge-by-Indian-Data-Club/tree/main/Day%2014) | AI-Powered Analytics: Genie & Mosaic AI | 🚧 In Progress |
+| [Day 14](https://github.com/lk-learner/Databricks-14-Days-Challenge-by-Indian-Data-Club/tree/main/Day%2014) | AI-Powered Analytics: Genie & Mosaic AI | ✅ Completed |
 | [DataBricks_Project](./DataBricks_Project) | DataBricks Project | 🚧 In Progress |
 
 ---
