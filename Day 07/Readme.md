@@ -89,7 +89,3 @@ def run_layer(layer_name):
 
 - [Jobs Documentation](https://docs.databricks.com/jobs/)
 - [Job Parameters](https://docs.databricks.com/jobs/parameters.html)
-
----
-
-@databricks @codebasics @indiandataclub #DatabricksWithIDC
