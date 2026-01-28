@@ -67,6 +67,5 @@ except Exception as e:
 
 - [Delta Lake Docs](https://docs.databricks.com/delta/)
 - [Delta Tutorial](https://docs.databricks.com/delta/tutorial.html)
----
-@databricks @codebasics @indiandataclub #DatabricksWithIDC
+
 
