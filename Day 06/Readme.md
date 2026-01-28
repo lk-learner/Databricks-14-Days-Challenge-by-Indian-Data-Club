@@ -71,6 +71,3 @@ product_perf.write.format("delta").mode("overwrite").save("/delta/gold/products"
 - [Medallion Architecture](https://www.databricks.com/glossary/medallion-architecture)
 - [Architecture Video](https://www.youtube.com/watch?v=njjBdmAQnR0)
 
----
-
-@databricks @codebasics @indiandataclub #DatabricksWithIDC
