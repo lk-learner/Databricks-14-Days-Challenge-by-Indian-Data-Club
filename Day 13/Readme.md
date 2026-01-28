@@ -80,5 +80,4 @@ model = pipeline.fit(train)
 ### 🔗 Resources:
 
 - [Spark ML](https://spark.apache.org/docs/latest/ml-classification-regression.html)
----
-@databricks @codebasics @indiandataclub #DatabricksWithIDC
+
