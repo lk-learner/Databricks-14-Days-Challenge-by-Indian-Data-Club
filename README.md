@@ -4,7 +4,7 @@ Databricks 14-Days AI Challenge is designed to help beginners build a strong fou
 ---
 
 <p align="center">
-<img src="https://github.com/lk-learner/Databricks-14-Days-Challenge-by-Indian-Data-Club/blob/main/Day%2014/Databricks%2014%20days%20challege%20completion%20certificate.png">
+<img src="https://github.com/lk-learner/Databricks-14-Days-Challenge-by-Indian-Data-Club/blob/main/Day%2014/Databricks%2014%20days%20challege%20completion%20certificate.png" height=70%, width=80%>
 
  ---
  𝐖𝐡𝐚𝐭 𝐢𝐬 𝐭𝐡𝐞 𝐃𝐚𝐭𝐚𝐛𝐫𝐢𝐜𝐤𝐬 𝐂𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞?
