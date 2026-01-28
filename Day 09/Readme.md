@@ -78,9 +78,3 @@ GROUP BY tier;
 
 - [Databricks SQL](https://docs.databricks.com/sql/)
 - [Dashboards Guide](https://docs.databricks.com/dashboards/)
----
-@databricks @codebasics @indiandataclub #DatabricksWithIDC
-
-
-
-
