@@ -94,6 +94,4 @@ print(f"R² Score: {score:.4f}")
 - [MLflow Documentation](https://docs.databricks.com/mlflow/)
 - [Model Registry](https://docs.databricks.com/machine-learning/manage-model-lifecycle/)
 
----
-@databricks @codebasics @indiandataclub #DatabricksWithIDC
 
