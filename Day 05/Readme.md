@@ -97,5 +97,3 @@ spark.sql("VACUUM events_table RETAIN 168 HOURS")
 - [Time Travel](https://www.databricks.com/blog/2019/02/04/introducing-delta-time-travel-for-large-scale-data-lakes.html)
 - [MERGE Guide](https://docs.databricks.com/delta/merge.html)
 
----
-@databricks @codebasics @indiandataclub #DatabricksWithIDC
