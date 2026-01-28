@@ -74,5 +74,3 @@ ORDER BY revenue DESC LIMIT 100;
 - [Unity Catalog](https://docs.databricks.com/data-governance/unity-catalog/)
 - [Getting Started](https://docs.databricks.com/data-governance/unity-catalog/get-started.html)
 
----
-@databricks @codebasics @indiandataclub #DatabricksWithIDC
