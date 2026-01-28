@@ -1,7 +1,13 @@
 # Databricks-14-Days-Challenge
 Databricks 14-Days AI Challenge is designed to help beginners build a strong foundation in Databricks through daily learning, hands-on practice, and real-world problem solving.
 
-𝐖𝐡𝐚𝐭 𝐢𝐬 𝐭𝐡𝐞 𝐃𝐚𝐭𝐚𝐛𝐫𝐢𝐜𝐤𝐬 𝐂𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞?
+---
+
+<p align="center">
+<img src="https://github.com/lk-learner/Databricks-14-Days-Challenge-by-Indian-Data-Club/blob/main/Day%2010/10-Days-Badge.png" style="width:50%;max-width:300px;">
+
+ ---
+ 𝐖𝐡𝐚𝐭 𝐢𝐬 𝐭𝐡𝐞 𝐃𝐚𝐭𝐚𝐛𝐫𝐢𝐜𝐤𝐬 𝐂𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞?
 
  It’s a hands-on learning challenge where you don’t just read concepts, you apply them.
 You work on a managed cloud platform using:
