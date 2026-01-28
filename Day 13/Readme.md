@@ -24,7 +24,7 @@ The session demonstrates how to use Databricks and MLflow to track multiple expe
 4. Select best model
 ---
 
-### 🔑 Key Concepts
+### 🔑 Key Concepts:
 Feature Engineering at Scale: Using Spark to perform transformations like One-Hot Encoding, Scaling, and Imputation across massive datasets that wouldn't fit in standard memory.
 
 Databricks Feature Store: A centralized repository that allows teams to share, discover, and track the lineage of features, ensuring consistency between training and online inference.
