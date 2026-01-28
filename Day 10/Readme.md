@@ -78,5 +78,4 @@ cached.count()  # Materialize
 
 - [Performance Tuning](https://docs.databricks.com/performance/)
 - [Optimization Guide](https://docs.databricks.com/delta/optimizations-oss.html)
----
-@databricks @codebasics @indiandataclub #DatabricksWithIDC
+
