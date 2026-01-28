@@ -74,5 +74,4 @@ top_brands = events.groupBy("brand").count().orderBy("count", ascending=False).l
 - [PySpark Guide](https://docs.databricks.com/pyspark/)
 - [Spark SQL Guide](https://spark.apache.org/docs/latest/sql-programming-guide.html)
 
----
-@databricks @codebasics @indiandataclub #DatabricksWithIDC
+
