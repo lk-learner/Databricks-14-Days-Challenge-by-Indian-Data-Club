@@ -52,6 +52,4 @@ df.filter(df.price > 1000).show()
 - [Databricks Trial](https://www.databricks.com/try-databricks)
 - [Quickstart Guide](https://docs.databricks.com/en/introduction/)
 
----
-@databricks @codebasics @indiandataclub #DatabricksWithIDC
 
