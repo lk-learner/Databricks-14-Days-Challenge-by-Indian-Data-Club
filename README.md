@@ -86,7 +86,7 @@ You remember them when you build, break, fix, and rebuild
 
 ## 🛠️ Technologies
 
-- DataBricks Free Edition
+- DataBricks Free Edition ( Delta Lake , Pyspark , SparkSQL , MLflow , Genie , Mosaic AI )
 
 ## 📖 Learning Goals
 
