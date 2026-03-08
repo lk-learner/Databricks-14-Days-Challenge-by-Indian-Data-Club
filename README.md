@@ -1,5 +1,5 @@
-# Databricks-14-Days-Challenge
-Databricks 14-Days AI Challenge is designed to help beginners build a strong foundation in Databricks through daily learning, hands-on practice, and real-world problem solving.
+# Databricks-14-Days-Challenge-1
+Databricks 14-Days AI Challenge-1 is designed to help beginners build a strong foundation in Databricks through daily learning, hands-on practice, and real-world problem solving.
 
 ---
 
